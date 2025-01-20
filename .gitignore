@@ -1,0 +1,6 @@
+__pycache__/
+data/preprocess
+logs/
+models/
+old_files/
+

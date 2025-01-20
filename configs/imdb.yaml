@@ -1,0 +1,36 @@
+finetune:
+  finetune_path: ''
+  new_templates: []
+log:
+  database: imdb
+  log_path: logs/imdb
+  model_save_path: models/imdb.pth
+  run: uniform
+  wandb: true
+model:
+  col_encoding_leng: 501
+  hidden_dim: 288
+  max_num_plans: 4
+  num_heads: 4
+  num_layers: 5
+  table_index_encoding_len: 10
+prepare:
+  filter_columns_path: infos/imdb/remain_filter_columns
+  prepare: true
+  prepare_weights: false
+  range_dict_path: infos/imdb/range_dict
+  smooth_factor: 0.2
+  test_data_dir: data/imdb/test
+  test_save_dir: data/preprocess/imdb/test
+  train_data_dir: data/imdb/train
+  train_save_dir: data/preprocess/imdb/train
+  used_templates: []
+  valid: false
+  valid_data_dir: data/imdb/valid
+  valid_save_dir: data/preprocess/imdb/valid
+  weighting_type: uniform
+seed: 0
+train:
+  batch_size: 512
+  lr: 6e-4
+  num_epochs: 200

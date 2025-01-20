@@ -1,0 +1,152 @@
+{
+    "an": [
+        "id",
+        "person_id",
+        "name",
+        "imdb_index",
+        "name_pcode_cf",
+        "name_pcode_nf",
+        "surname_pcode",
+        "md5sum"
+    ],
+    "at": [
+        "id",
+        "movie_id",
+        "title",
+        "imdb_index",
+        "kind_id",
+        "production_year",
+        "phonetic_code",
+        "episode_of_id",
+        "season_nr",
+        "episode_nr",
+        "note",
+        "md5sum"
+    ],
+    "ci": [
+        "id",
+        "person_id",
+        "movie_id",
+        "person_role_id",
+        "note",
+        "nr_order",
+        "role_id"
+    ],
+    "chn": [
+        "id",
+        "name",
+        "imdb_index",
+        "imdb_id",
+        "name_pcode_nf",
+        "surname_pcode",
+        "md5sum"
+    ],
+    "cct2": [
+        "id",
+        "kind"
+    ],
+    "cn": [
+        "id",
+        "name",
+        "country_code",
+        "imdb_id",
+        "name_pcode_nf",
+        "name_pcode_sf",
+        "md5sum"
+    ],
+    "ct": [
+        "id",
+        "kind"
+    ],
+    "cc": [
+        "id",
+        "movie_id",
+        "subject_id",
+        "status_id"
+    ],
+    "it": [
+        "id",
+        "info"
+    ],
+    "k": [
+        "id",
+        "keyword",
+        "phonetic_code"
+    ],
+    "kt2": [
+        "id",
+        "kind"
+    ],
+    "lt": [
+        "id",
+        "link"
+    ],
+    "mc": [
+        "id",
+        "movie_id",
+        "company_id",
+        "company_type_id",
+        "note"
+    ],
+    "mi_idx": [
+        "id",
+        "movie_id",
+        "info_type_id",
+        "info",
+        "note"
+    ],
+    "mk": [
+        "id",
+        "movie_id",
+        "keyword_id"
+    ],
+    "ml": [
+        "id",
+        "movie_id",
+        "linked_movie_id",
+        "link_type_id"
+    ],
+    "n": [
+        "id",
+        "name",
+        "imdb_index",
+        "imdb_id",
+        "gender",
+        "name_pcode_cf",
+        "name_pcode_nf",
+        "surname_pcode",
+        "md5sum"
+    ],
+    "rt": [
+        "id",
+        "role"
+    ],
+    "t": [
+        "id",
+        "title",
+        "imdb_index",
+        "kind_id",
+        "production_year",
+        "imdb_id",
+        "phonetic_code",
+        "episode_of_id",
+        "season_nr",
+        "episode_nr",
+        "series_years",
+        "md5sum"
+    ],
+    "mi": [
+        "id",
+        "movie_id",
+        "info_type_id",
+        "info",
+        "note"
+    ],
+    "pi": [
+        "id",
+        "person_id",
+        "info_type_id",
+        "info",
+        "note"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "char_name": [
+        "chn"
+    ],
+    "cast_info": [
+        "ci"
+    ],
+    "company_name": [
+        "cn",
+        "cn2",
+        "cn1"
+    ],
+    "company_type": [
+        "ct"
+    ],
+    "movie_companies": [
+        "mc1",
+        "mc",
+        "mc2"
+    ],
+    "role_type": [
+        "rt"
+    ],
+    "title": [
+        "t",
+        "t2",
+        "t1"
+    ],
+    "keyword": [
+        "k"
+    ],
+    "link_type": [
+        "lt"
+    ],
+    "movie_keyword": [
+        "mk"
+    ],
+    "movie_link": [
+        "ml"
+    ],
+    "info_type": [
+        "it3",
+        "it1",
+        "it",
+        "it2"
+    ],
+    "movie_info": [
+        "mi"
+    ],
+    "movie_info_idx": [
+        "miidx",
+        "mi_idx2",
+        "mi_idx1",
+        "mi_idx"
+    ],
+    "kind_type": [
+        "kt1",
+        "kt2",
+        "kt"
+    ],
+    "aka_title": [
+        "at"
+    ],
+    "aka_name": [
+        "an",
+        "a1",
+        "an1"
+    ],
+    "name": [
+        "n1",
+        "n"
+    ],
+    "complete_cast": [
+        "cc"
+    ],
+    "comp_cast_type": [
+        "cct1",
+        "cct2"
+    ],
+    "person_info": [
+        "pi"
+    ]
+}

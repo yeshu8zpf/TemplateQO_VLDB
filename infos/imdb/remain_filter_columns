@@ -1,0 +1,45 @@
+{
+    "cast_info": [
+        "note"
+    ],
+    "company_name": [
+        "country_code"
+    ],
+    "role_type": [
+        "role"
+    ],
+    "title": [
+        "episode_nr",
+        "production_year"
+    ],
+    "company_type": [
+        "kind"
+    ],
+    "link_type": [
+        "link"
+    ],
+    "movie_companies": [
+        "note"
+    ],
+    "info_type": [
+        "info"
+    ],
+    "movie_info": [
+        "note"
+    ],
+    "movie_info_idx": [
+        "info"
+    ],
+    "kind_type": [
+        "kind"
+    ],
+    "name": [
+        "gender"
+    ],
+    "comp_cast_type": [
+        "kind"
+    ],
+    "person_info": [
+        "note"
+    ]
+}
